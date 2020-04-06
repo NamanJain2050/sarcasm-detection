@@ -12,6 +12,8 @@ Related Medium article: https://tinyurl.com/t632sh9
 
 ## Dataset details:
 
+We have a prepared a perfectly balanced dataset for our task.
+
 <table>
   <tr>
     <th></th>

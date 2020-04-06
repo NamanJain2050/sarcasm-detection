@@ -117,5 +117,10 @@ We've achieved an F1-score of 0.7215 and we were able to classify 72.1% of sarca
 
 ## Summary of results
 <p align="center">
-  <img src="https://github.com/NamanJain2050/sarcasm-detection/blob/master/images/summary.png" alt="model_06"/>
+  <img src="https://github.com/NamanJain2050/sarcasm-detection/blob/master/images/summary.png" alt="summary"/>
 </p>
+
+## Conclusions
+We've seen that adding emotion and sentiment features from pretrained models have <b> degraded </b> our results
+Possible reasons:
+1. Models were trained on much smaller datasets as compared to our SARC dataset

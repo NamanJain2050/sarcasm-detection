@@ -10,3 +10,32 @@ Related Medium article: https://tinyurl.com/t632sh9
 2. Data cleaning and EDA.ipyb: Cleaning text and some Exploratory data analysis on our data
 3. Modelling.ipynb: CNN model for text classification task
 
+## Dataset details:
+
+<table>
+  <tr>
+    <th></th>
+    <th>Sarcastic (1)</th>
+    <th>Not sarcastic (0)</th>
+  </tr>
+  <tr>
+    <td>Train</td>
+    <td>400000</td>
+    <td>400000</td>	
+  </tr>
+  <tr>
+    <td>CV</td>
+    <td>50000</td>
+    <td>50000</td>
+  </tr>
+  <tr>
+    <td>Test</td>
+    <td>50000</td>
+    <td>50000</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>500000</td>
+    <td>500000</td>		
+  </tr>
+</table> 

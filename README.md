@@ -3,7 +3,7 @@
 This repository showcases my work on sarcasm detection task. <br>
 Problem description: Given raw comments from Reddit, we have to classify them as sarcastic or not. <br>
 Dataset source: https://www.kaggle.com/danofer/sarcasm <br>
-Related Medium article: https://tinyurl.com/t632sh9
+Paper referred: https://arxiv.org/abs/1610.08815
 
 ## Description of each notebook
 1. prepare-data-csv.ipynb: Using raw data source to create usable data CSVs

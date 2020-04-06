@@ -1,2 +1,3 @@
-# sarcasm-detection
-Saracasm Detection in text
+# Sarcasm Detection in Reddit Comments (NLP)
+
+This repository showcases my work on sarcasm detection task.

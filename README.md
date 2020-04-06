@@ -53,3 +53,7 @@ Predictions made using only content features extracted from 1D CNN. Model archit
 <p align="center">
   <img src="https://github.com/NamanJain2050/sarcasm-detection/blob/master/images/model_01.png" alt="model_01"/>
 </p>
+<b> Results of this model are as follows: </b>
+<p align="center">
+  <img src="https://github.com/NamanJain2050/sarcasm-detection/blob/master/images/model_1_cnf.png" alt="model_01"/>
+</p>

@@ -114,3 +114,8 @@ Predictions made using content features extracted from 1D CNN, sentiment feature
   <img src="https://github.com/NamanJain2050/sarcasm-detection/blob/master/images/model_6_cnf.png" alt="model_06"/>
 </p>
 We've achieved an F1-score of 0.7215 and we were able to classify 72.1% of sarcastic comments correcly.
+
+## Summary of results
+<p align="center">
+  <img src="https://github.com/NamanJain2050/sarcasm-detection/blob/master/images/summary.png" alt="model_06"/>
+</p>

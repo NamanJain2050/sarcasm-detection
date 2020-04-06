@@ -11,7 +11,6 @@ Related Medium article: https://tinyurl.com/t632sh9
 3. Modelling.ipynb: CNN model for text classification task
 
 ## Dataset details:
-
 We have a prepared a perfectly balanced dataset for our task.
 
 <table>
@@ -41,3 +40,10 @@ We have a prepared a perfectly balanced dataset for our task.
     <td>500000</td>		
   </tr>
 </table> 
+
+## Modelling
+We've used 1D CNN models to extract features from raw texts and make classifications.
+We've used combinations of three different kinds of features:
+1. Content features from raw texts
+2. Sentiment features using Transfer Learning. Model trained on twitter dataset. More information can be found here: https://github.com/NamanJain2050/semeval-2014-task-9/
+3. Emotion features using Transfer Learning. Two models trained on two different datasets. More information can be found here: https://github.com/NamanJain2050/emotion-detection

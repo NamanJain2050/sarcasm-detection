@@ -47,3 +47,9 @@ We've used combinations of three different kinds of features:
 1. Content features from raw texts
 2. Sentiment features using Transfer Learning. Model trained on twitter dataset. More information can be found here: https://github.com/NamanJain2050/semeval-2014-task-9/
 3. Emotion features using Transfer Learning. Two models trained on two different datasets. More information can be found here: https://github.com/NamanJain2050/emotion-detection
+
+### Model 1: Using only content features
+Predictions made using only content features extracted from 1D CNN. Model architecture is as follows:
+<p align="center">
+  <img src="https://github.com/NamanJain2050/sarcasm-detection/blob/master/images/model_01.png" alt="model_01"/>
+</p>

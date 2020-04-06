@@ -10,7 +10,7 @@ Related Medium article: https://tinyurl.com/t632sh9
 2. Data cleaning and EDA.ipyb: Cleaning text and some Exploratory data analysis on our data
 3. Modelling.ipynb: CNN model for text classification task
 
-## Dataset details:
+## Dataset details
 We have a prepared a perfectly balanced dataset for our task.
 
 <table>

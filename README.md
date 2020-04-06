@@ -69,3 +69,14 @@ Predictions made using content features extracted from 1D CNN and sentiment feat
   <img src="https://github.com/NamanJain2050/sarcasm-detection/blob/master/images/model_2_cnf.png" alt="model_01"/>
 </p>
 We've achieved an F1-score of 0.7179 and we were able to classify 71.78% of sarcastic comments correcly.
+
+### Model 3: Using content features + emotion features
+Predictions made using content features extracted from 1D CNN and emotion features from pre-trained model. Model architecture is as follows:
+<p align="center">
+  <img src="https://github.com/NamanJain2050/sarcasm-detection/blob/master/images/model_03.png" alt="model_01"/>
+</p>
+<b> Results of this model are as follows: </b>
+<p align="center">
+  <img src="https://github.com/NamanJain2050/sarcasm-detection/blob/master/images/model_3_cnf.png" alt="model_01"/>
+</p>
+We've achieved an F1-score of 0.7242 and we were able to classify 71.75% of sarcastic comments correcly.
